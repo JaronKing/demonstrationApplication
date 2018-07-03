@@ -1,0 +1,23 @@
+# Mac
+.DS_Store
+
+# Node
+npm-debug.log
+/node_modules
+
+# Cordova
+/platforms
+/plugins
+.npmignore
+config.xml
+hooks/
+res/
+
+# res
+resources/signing
+jsconfig.json
+.vscode/
+typings/
+
+.idea
+
