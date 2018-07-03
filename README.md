@@ -9,6 +9,7 @@ In application directory
     cd my-app
     git init
     git remote add origin git@github.com:JaronKing/demonstrationApplication.git
+    git fetch origin masster
     git reset --hard origin/master
 
 To serve application
